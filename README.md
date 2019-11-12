@@ -19,3 +19,17 @@ https://docs.python.org/3/
 Python 2 documentation:
 
 https://docs.python.org/2/
+
+Python implementations:
+
+https://wiki.python.org/moin/PythonImplementations
+
+Python vs other languages comparison:
+
+https://wiki.python.org/moin/LanguageComparisons
+
+PEPs:
+
+https://www.python.org/dev/peps/
+
+

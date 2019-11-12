@@ -32,4 +32,8 @@ PEPs:
 
 https://www.python.org/dev/peps/
 
+Benchmarks Game:
 
+https://pybenchmarks.org/
+
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html

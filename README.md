@@ -4,8 +4,6 @@ https://en.wikipedia.org/wiki/Python_(programming_language)
 
 https://en.wikipedia.org/wiki/Python_syntax_and_semantics
 
-https://en.wikipedia.org/wiki/Windows_Script_Host
-
 Python Release Cycle
 
 https://python-release-cycle.glitch.me/
@@ -43,3 +41,10 @@ Benchmarks Game:
 https://pybenchmarks.org/
 
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Windows Script Host:
+
+https://en.wikipedia.org/wiki/Windows_Script_Host
+
+https://pbpython.com/windows-com.html
+

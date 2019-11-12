@@ -36,6 +36,10 @@ PEPs:
 
 https://www.python.org/dev/peps/
 
+https://www.python.org/dev/peps/pep-0008/
+
+https://gist.github.com/Maecenas/5878ceee890a797ee6c9ad033a0ae0f1
+
 Benchmarks Game:
 
 https://pybenchmarks.org/

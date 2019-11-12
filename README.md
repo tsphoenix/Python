@@ -4,6 +4,8 @@ https://en.wikipedia.org/wiki/Python_(programming_language)
 
 https://en.wikipedia.org/wiki/Python_syntax_and_semantics
 
+https://en.wikipedia.org/wiki/Windows_Script_Host
+
 Python Release Cycle
 
 https://python-release-cycle.glitch.me/
